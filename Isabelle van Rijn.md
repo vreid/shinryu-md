@@ -1,0 +1,54 @@
+---
+tags:
+  - lore-bible
+  - characters
+aliases:
+  - Isabelle
+  - Shin Ji-won
+  - Ji-won
+  - Izaberu
+  - Beru-chan
+  - ベルちゃん
+---
+
+# Isabelle van Rijn / Shin Ji-won
+
+Born: January 14, 2001
+
+Home base: Wassenaar, Netherlands.
+
+Appearance: 5'10", statuesque. Heavy wavy caramel-blonde hair. Pale glowing
+glass skin. Flawless posture of a trained dancer.
+
+Languages: Dutch, Korean, English, French, German, Japanese. She downplays her
+Japanese fluency; it is just easier to be underestimated.
+
+Physical training: Ballet since age three. The grammar underneath the K-pop
+choreography she later learns during the exile.
+
+## Official Writing and Pronunciation
+
+Because "van" behaves phonetically like an "f" in the Dutch pronunciation
+recognizable to Japanese linguistics, her name is standardized with "Fan".
+
+| Name Part | Katakana | Romaji  | Pronunciation  |
+| --------- | -------- | ------- | -------------- |
+| Isabelle  | イザベル | Izaberu | Ee-zah-beh-roo |
+| van       | ファン   | Fan     | Fahn           |
+| Rijn      | レイン   | Rein    | Ray-n          |
+
+School rosters and ID cards prioritize the family name. Her name on official
+paperwork is written as: ファン・レイン・イザベル (Fan Rein Izaberu)
+
+## Forms of Address
+
+- **Teachers:** イザベルさん (Izaberu-san) — While teachers typically use last
+  names, "Fan Rein" is treated as a double name and is somewhat long. Teachers
+  default to her first name attached to the polite, gender-neutral suffix
+  "-san".
+- **Classmates:** ベルちゃん (Beru-chan) — Friends drop the polite "-san" and
+  use a shortened, affectionate nickname. "Beru" (Belle) combined with the
+  "cute" suffix "-chan" is standard for close female peers.
+
+**Related:** [[Caspar Waldstein]] | [[van Rijn-Shin Clan]] | [[Moon Jungsook]] |
+[[The Exile]] | [[Japanese Forms of Address]]

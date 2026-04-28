@@ -8,8 +8,8 @@ aliases:
 
 # The Caretakers
 
-- [[Moon Jungsook]] — Assigned to Isabelle since birth.
-- [[Bae Myunghi]] — Assigned to Caspar since birth.
+- [[Moon Jungsook]] — Born 1968, Daegu. Assigned to Isabelle since birth.
+- [[Bae Myunghi]] — Born 1970, Tongyeong. Assigned to Caspar since birth.
 
 ## Their Unified Front
 

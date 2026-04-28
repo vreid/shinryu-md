@@ -9,6 +9,8 @@ aliases:
 
 # Tsukada Rin
 
+Born: January 7, 2001
+
 Loud, shame-free K-pop fan. Stumbles onto the VESPER connection eventually.
 
 Isabelle's friend group.

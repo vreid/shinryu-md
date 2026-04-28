@@ -9,6 +9,8 @@ aliases:
 
 # Nakamura Aoi
 
+Born: June 22, 2000
+
 Dance captain. Detects Isabelle's hidden physical training.
 
 Isabelle's friend group.

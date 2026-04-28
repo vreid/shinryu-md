@@ -28,6 +28,31 @@ Japanese fluency; it is just easier to be underestimated.
 Physical training: Ballet since age three. The grammar underneath the K-pop
 choreography she later learns during the exile.
 
+## Tokyo Apartment — Seijo
+
+Ultra-quiet, low-rise, legacy-wealth neighborhood. Seijo mirrors Wassenaar
+energy — discreet, structured, intentionally removed from chaos. Wealth is
+assumed, never displayed.
+
+- **Type:** Custom-renovated low-rise (2–3 floors), ~120–140 m²
+- **Ownership:** van Rijn real estate structures
+- **Privacy:** Extremely high
+
+**Layout:** Open living + dining (floor-to-ceiling windows), separate minimalist
+kitchen (Jungsook's domain), 2 bedrooms, 1 flexible studio space.
+
+**Interior:** Pale oak flooring, limestone countertops, matte black fixtures,
+neutral controlled palette. No visible clutter.
+
+**Signature details:** Portable ballet barre along mirrored wall. Worn pointe
+shoes near the window. High-end speaker system for choreography. Precisely
+arranged skincare and cosmetics. Balcony faces greenery, not street — designed
+for privacy.
+
+**Vibe:** Silent, controlled, almost gallery-like. Not comfort — discipline and
+recovery. Early morning training scenes. Emotional resets. Isabelle alone,
+rebuilding structure.
+
 ## Official Writing and Pronunciation
 
 Because "van" behaves phonetically like an "f" in the Dutch pronunciation
@@ -53,4 +78,4 @@ paperwork is written as: ファン・レイン・イザベル (Fan Rein Izaberu)
   "cute" suffix "-chan" is standard for close female peers.
 
 **Related:** [[Caspar Waldstein]] | [[van Rijn-Shin Clan]] | [[Moon Jungsook]] |
-[[The Exile]] | [[Japanese Forms of Address]]
+[[Setagaya Living]] | [[The Exile]] | [[Japanese Forms of Address]]

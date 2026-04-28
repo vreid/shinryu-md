@@ -42,6 +42,7 @@ aliases:
 
 ## Concepts
 
+- [[Setagaya Living]]
 - [[The Revelation Table]]
 - [[Work - Choosing the Dynasty]]
 - [[The Stealth Wealth]]

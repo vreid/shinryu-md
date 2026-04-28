@@ -15,6 +15,8 @@ aliases:
 
 Born: January 14, 2001
 
+Homeroom: 1年5組 (Class 5, Setagaya public high school)
+
 Home base: Wassenaar, Netherlands.
 
 Appearance: 5'10", statuesque. Heavy wavy caramel-blonde hair. Pale glowing

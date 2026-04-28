@@ -21,5 +21,16 @@ in the sand. They will not allow the parents to break these children again. They
 do not police sleeping arrangements. Their only rule is that both teenagers eat
 breakfast before leaving the apartment.
 
+## Narrative Role
+
+The caretakers are not featured prominently in stories. They are the appliance
+that runs in the background — always present, never the focus. When Isabelle and
+Caspar come home, Jungsook has already made juk; Myunghi has already made
+miyeok-guk. The apartment smells like sesame oil. The tea is already brewed. The
+point is that the children are cared for, not that the reader hears much about
+the caretakers. If a scene needs them, their details exist in their individual
+files. But they should not be placed in the classroom or given spotlight
+moments. They adjust their purses and step back.
+
 **Related:** [[Isabelle van Rijn]] | [[Caspar Waldstein]] | [[The Breakpoint]] |
 [[Tokyo - The Silent Apology]]

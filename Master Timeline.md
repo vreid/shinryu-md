@@ -16,7 +16,7 @@ aliases:
   [[The Breakpoint]]
 - **13–16 / 2014–2017:** The Exile. 2.5 years of deprivation. Caretakers
   removed. Isabelle trains in Seoul; Caspar farms in Jeju. → [[The Exile]]
-- **16 / April 2017:** Reunion in Tokyo. The silent apology. The entrance
-  ceremony collision. → [[Tokyo - The Silent Apology]]
+- **16 / April 2017:** Reunion in Tokyo. Enrolled in 1年5組. The silent apology.
+  The entrance ceremony collision. → [[Tokyo - The Silent Apology]]
 
 **Related:** [[The Children]] | [[The Families]] | [[The Caretakers]]

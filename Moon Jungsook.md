@@ -23,4 +23,12 @@ the families second.
 Her cooking is rivaled only by Myunghi's—a source of quiet permanent war between
 them.
 
+## Narrative Role
+
+Jungsook is background infrastructure. She is in the apartment when the children
+come home. She has already made the food. She adjusts her purse and steps back.
+The details of her history and personality exist if a scene needs her, but she
+should not be placed in the classroom or given spotlight moments. She cares
+deeply; the reader doesn't need to hear much about her.
+
 **Related:** [[Isabelle van Rijn]] | [[Bae Myunghi]] | [[The Caretakers]]

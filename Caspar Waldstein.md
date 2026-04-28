@@ -15,6 +15,8 @@ aliases:
 
 Born: March 29, 2001
 
+Homeroom: 1年5組 (Class 5, Setagaya public high school)
+
 Home base: Munich, Germany.
 
 Appearance: 6'1", lean but broad-shouldered. Icy pale blue eyes. After the
